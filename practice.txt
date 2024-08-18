@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+	<headerArea>
+		<messageId>123</messageId>
+	</headerArea>
+	<payloadArea>
+		<contractNumber>1234</contractNumber>
+		<groupNumber>12345</groupNumber>
+		<memberId>1</memberId>
+		<planYearIndicator>C</planYearIndicator>
+		<referenceDate>2024-08-13</referenceDate>
+	</payloadArea>
+</root>
